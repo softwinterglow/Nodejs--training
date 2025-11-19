@@ -1,1 +1,10 @@
-console.log("hello world");
+// console.log("hello world");
+
+let program = "Hello"
+console.log(program)
+
+
+
+const pi = 3.14
+console.log(pi);
+
