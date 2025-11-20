@@ -12,9 +12,14 @@
 
 
 // Guess The box
-let x = 10;
-if(true){
-    let x =20;
-    console.log("Inside",x)
+// let x = 10;
+// if(true){
+//     let x =20;
+//     console.log("Inside",x)
+// }
+// console.log("Outside",x)
+
+ function doubleNumber(one){
+    return one*2
 }
-console.log("Outside",x)
+console.log(doubleNumber(2))
